@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c0k6byca3af471mu/branch/main?svg=true)](https://ci.appveyor.com/project/keereal1/clean-func/branch/main)
