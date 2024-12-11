@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
+    "build": "webpack --mode production",
     "test": "jest --coverage"
   },
   "author": "",
